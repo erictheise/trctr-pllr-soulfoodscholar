@@ -1,0 +1,28 @@
+{
+  "name": "trctr-pllr-soulfoodscholar",
+  "version": "1.0.0",
+  "description": "Sample maps for TRCTR-PLLR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erictheise/trctr-pllr-soulfoodscholar.git"
+  },
+  "keywords": [
+    "maps",
+    "soulfood",
+    "beverages",
+    "trctr-pllr"
+  ],
+  "author": "Eric Theise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erictheise/trctr-pllr-soulfoodscholar/issues"
+  },
+  "homepage": "https://github.com/erictheise/trctr-pllr-soulfoodscholar#readme",
+  "dependencies": {
+    "leaflet": "^1.4.0"
+  }
+}

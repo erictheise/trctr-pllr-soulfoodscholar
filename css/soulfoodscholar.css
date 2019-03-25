@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-image: url('../images/red-tablecloth-50.png');
+}

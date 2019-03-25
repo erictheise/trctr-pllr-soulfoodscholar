@@ -1,0 +1,1605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4118189970163,
+          39.4154745093135
+        ]
+      },
+      "properties": {
+        "geoid": "24005411309",
+        "usps": "MD",
+        "pop10": 7950,
+        "Soulfood Beverage": "Red Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.153029124938,
+          35.2942281580583
+        ]
+      },
+      "properties": {
+        "geoid": "04005001700",
+        "usps": "AZ",
+        "pop10": 3417,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9614883271647,
+          40.6419763848207
+        ]
+      },
+      "properties": {
+        "geoid": "36047051400",
+        "usps": "NY",
+        "pop10": 7366,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.76731172944,
+          37.2372831307033
+        ]
+      },
+      "properties": {
+        "geoid": "08067970703",
+        "usps": "CO",
+        "pop10": 5144,
+        "Soulfood Beverage": "Red Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.913454641161,
+          17.9734484725755
+        ]
+      },
+      "properties": {
+        "geoid": "72055961300",
+        "usps": "PR",
+        "pop10": 2035,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8229321631317,
+          38.1797936906069
+        ]
+      },
+      "properties": {
+        "geoid": "21111012501",
+        "usps": "KY",
+        "pop10": 2549,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.955369184547,
+          32.8240664310446
+        ]
+      },
+      "properties": {
+        "geoid": "06073016503",
+        "usps": "CA",
+        "pop10": 2784,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.630221338515,
+          39.1076107218524
+        ]
+      },
+      "properties": {
+        "geoid": "08041007500",
+        "usps": "CO",
+        "pop10": 7717,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.270105033519,
+          34.2662712322272
+        ]
+      },
+      "properties": {
+        "geoid": "06111002600",
+        "usps": "CA",
+        "pop10": 3211,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2264534896453,
+          42.4622814993849
+        ]
+      },
+      "properties": {
+        "geoid": "25017358700",
+        "usps": "MA",
+        "pop10": 5060,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0630194304444,
+          29.2086995830104
+        ]
+      },
+      "properties": {
+        "geoid": "12127082301",
+        "usps": "FL",
+        "pop10": 6039,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.966763603554,
+          39.9074428665683
+        ]
+      },
+      "properties": {
+        "geoid": "08001008507",
+        "usps": "CO",
+        "pop10": 6099,
+        "Soulfood Beverage": "Purple Drank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.223314888345,
+          32.4590426438055
+        ]
+      },
+      "properties": {
+        "geoid": "01101005101",
+        "usps": "AL",
+        "pop10": 3689,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.179150677679,
+          33.4750865034267
+        ]
+      },
+      "properties": {
+        "geoid": "04013112401",
+        "usps": "AZ",
+        "pop10": 5377,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1229714092728,
+          40.0491475095602
+        ]
+      },
+      "properties": {
+        "geoid": "39049007952",
+        "usps": "OH",
+        "pop10": 7428,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3633928469103,
+          43.3060312236596
+        ]
+      },
+      "properties": {
+        "geoid": "33019975700",
+        "usps": "NH",
+        "pop10": 5114,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3211043472086,
+          41.2112109184312
+        ]
+      },
+      "properties": {
+        "geoid": "42035030400",
+        "usps": "PA",
+        "pop10": 4699,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.190452388531,
+          36.2729818130555
+        ]
+      },
+      "properties": {
+        "geoid": "37139960701",
+        "usps": "NC",
+        "pop10": 5654,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9609578744419,
+          39.8932815256046
+        ]
+      },
+      "properties": {
+        "geoid": "39049008813",
+        "usps": "OH",
+        "pop10": 2326,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3528629683187,
+          40.9167869509676
+        ]
+      },
+      "properties": {
+        "geoid": "34027040801",
+        "usps": "NJ",
+        "pop10": 4948,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5289291618806,
+          35.300311124108
+        ]
+      },
+      "properties": {
+        "geoid": "40027202205",
+        "usps": "OK",
+        "pop10": 6445,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3778350215415,
+          45.9620017402616
+        ]
+      },
+      "properties": {
+        "geoid": "27065480200",
+        "usps": "MN",
+        "pop10": 3834,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7863222436331,
+          18.3083952168367
+        ]
+      },
+      "properties": {
+        "geoid": "72141957100",
+        "usps": "PR",
+        "pop10": 5031,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1465154007514,
+          42.0641086701767
+        ]
+      },
+      "properties": {
+        "geoid": "17031804701",
+        "usps": "IL",
+        "pop10": 6837,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369153207886,
+          47.6310792021104
+        ]
+      },
+      "properties": {
+        "geoid": "53033006900",
+        "usps": "WA",
+        "pop10": 4080,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5627200418226,
+          40.9104352906656
+        ]
+      },
+      "properties": {
+        "geoid": "36103190403",
+        "usps": "NY",
+        "pop10": 3702,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1886150503148,
+          41.1823221174685
+        ]
+      },
+      "properties": {
+        "geoid": "18099020800",
+        "usps": "IN",
+        "pop10": 5163,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2228718741105,
+          26.2108989342249
+        ]
+      },
+      "properties": {
+        "geoid": "12011020413",
+        "usps": "FL",
+        "pop10": 7622,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0604225381635,
+          37.2025091187281
+        ]
+      },
+      "properties": {
+        "geoid": "21001970100",
+        "usps": "KY",
+        "pop10": 1727,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.825952353699,
+          40.7210073462674
+        ]
+      },
+      "properties": {
+        "geoid": "36081077902",
+        "usps": "NY",
+        "pop10": 5263,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2235916763052,
+          26.2966259644975
+        ]
+      },
+      "properties": {
+        "geoid": "12011010605",
+        "usps": "FL",
+        "pop10": 6515,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5558961895246,
+          43.1233828963464
+        ]
+      },
+      "properties": {
+        "geoid": "26081010700",
+        "usps": "MI",
+        "pop10": 5381,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.744493151738,
+          41.9657275615022
+        ]
+      },
+      "properties": {
+        "geoid": "19113001002",
+        "usps": "IA",
+        "pop10": 3467,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.259713045057,
+          41.0987406537154
+        ]
+      },
+      "properties": {
+        "geoid": "49043964101",
+        "usps": "UT",
+        "pop10": 2052,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1822199540582,
+          39.1785062586849
+        ]
+      },
+      "properties": {
+        "geoid": "51840000202",
+        "usps": "VA",
+        "pop10": 5736,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2269502198201,
+          39.153505376785
+        ]
+      },
+      "properties": {
+        "geoid": "39025040600",
+        "usps": "OH",
+        "pop10": 6817,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5340681022974,
+          45.3584923240118
+        ]
+      },
+      "properties": {
+        "geoid": "27141030502",
+        "usps": "MN",
+        "pop10": 11141,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.917455134657,
+          32.6493956903581
+        ]
+      },
+      "properties": {
+        "geoid": "48113016518",
+        "usps": "TX",
+        "pop10": 4912,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4128873744284,
+          42.2867603041934
+        ]
+      },
+      "properties": {
+        "geoid": "26077006702",
+        "usps": "MI",
+        "pop10": 6099,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5664018314087,
+          39.0317321287392
+        ]
+      },
+      "properties": {
+        "geoid": "29095007500",
+        "usps": "MO",
+        "pop10": 2634,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.204109466078,
+          36.2115965957213
+        ]
+      },
+      "properties": {
+        "geoid": "32003003616",
+        "usps": "NV",
+        "pop10": 5430,
+        "Soulfood Beverage": "Purple Drank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8660400914968,
+          34.0638502147749
+        ]
+      },
+      "properties": {
+        "geoid": "45051020200",
+        "usps": "SC",
+        "pop10": 5849,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.741523909108,
+          43.8515211354628
+        ]
+      },
+      "properties": {
+        "geoid": "26063951200",
+        "usps": "MI",
+        "pop10": 4007,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5511577427259,
+          32.325913380748
+        ]
+      },
+      "properties": {
+        "geoid": "22017024000",
+        "usps": "LA",
+        "pop10": 10420,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2214803410047,
+          38.822991034595
+        ]
+      },
+      "properties": {
+        "geoid": "51059452302",
+        "usps": "VA",
+        "pop10": 4882,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6587068778445,
+          41.3909427183672
+        ]
+      },
+      "properties": {
+        "geoid": "42069102700",
+        "usps": "PA",
+        "pop10": 2747,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6915162350834,
+          33.750160289911
+        ]
+      },
+      "properties": {
+        "geoid": "13097080202",
+        "usps": "GA",
+        "pop10": 9186,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2263608298313,
+          29.0256139890911
+        ]
+      },
+      "properties": {
+        "geoid": "12083001004",
+        "usps": "FL",
+        "pop10": 12236,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3732351412824,
+          38.9685965458439
+        ]
+      },
+      "properties": {
+        "geoid": "51059480802",
+        "usps": "VA",
+        "pop10": 3685,
+        "Soulfood Beverage": "Purple Drank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.057546200037,
+          42.2850008648684
+        ]
+      },
+      "properties": {
+        "geoid": "25025100800",
+        "usps": "MA",
+        "pop10": 5546,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.451791084527,
+          37.7906768726882
+        ]
+      },
+      "properties": {
+        "geoid": "06075013300",
+        "usps": "CA",
+        "pop10": 4232,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1137141503508,
+          42.6970852712515
+        ]
+      },
+      "properties": {
+        "geoid": "25009253201",
+        "usps": "MA",
+        "pop10": 2913,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.204173062628,
+          36.7544538790274
+        ]
+      },
+      "properties": {
+        "geoid": "35045000301",
+        "usps": "NM",
+        "pop10": 5172,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4033977412468,
+          30.0815903460228
+        ]
+      },
+      "properties": {
+        "geoid": "48201241400",
+        "usps": "TX",
+        "pop10": 7931,
+        "Soulfood Beverage": "Purple Drank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8049870063794,
+          33.1276578491038
+        ]
+      },
+      "properties": {
+        "geoid": "13169030200",
+        "usps": "GA",
+        "pop10": 3319,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4397442718345,
+          29.5933863907732
+        ]
+      },
+      "properties": {
+        "geoid": "48201330700",
+        "usps": "TX",
+        "pop10": 7796,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5866439430249,
+          37.6617394422468
+        ]
+      },
+      "properties": {
+        "geoid": "51087200119",
+        "usps": "VA",
+        "pop10": 9108,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.371263547778,
+          33.9944963847729
+        ]
+      },
+      "properties": {
+        "geoid": "06037703002",
+        "usps": "CA",
+        "pop10": 6605,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.415304863543,
+          41.1184391817995
+        ]
+      },
+      "properties": {
+        "geoid": "09001043700",
+        "usps": "CT",
+        "pop10": 2039,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1093139758863,
+          32.9209544534495
+        ]
+      },
+      "properties": {
+        "geoid": "48439113705",
+        "usps": "TX",
+        "pop10": 5597,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.411492906898,
+          41.3023939816557
+        ]
+      },
+      "properties": {
+        "geoid": "39153530101",
+        "usps": "OH",
+        "pop10": 5089,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5580987120307,
+          36.1086617903521
+        ]
+      },
+      "properties": {
+        "geoid": "47037015631",
+        "usps": "TN",
+        "pop10": 8758,
+        "Soulfood Beverage": "Red Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3814623964485,
+          33.1579868157895
+        ]
+      },
+      "properties": {
+        "geoid": "48121020309",
+        "usps": "TX",
+        "pop10": 8315,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.491397227896,
+          42.3391982404691
+        ]
+      },
+      "properties": {
+        "geoid": "26163563500",
+        "usps": "MI",
+        "pop10": 6229,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3331098429541,
+          38.6244295570893
+        ]
+      },
+      "properties": {
+        "geoid": "51153900408",
+        "usps": "VA",
+        "pop10": 4279,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1235714580791,
+          36.8148877909344
+        ]
+      },
+      "properties": {
+        "geoid": "51810045808",
+        "usps": "VA",
+        "pop10": 2330,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0405858876314,
+          26.7287633997861
+        ]
+      },
+      "properties": {
+        "geoid": "12099003507",
+        "usps": "FL",
+        "pop10": 2299,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.802518076693,
+          38.9376052754994
+        ]
+      },
+      "properties": {
+        "geoid": "08041003905",
+        "usps": "CO",
+        "pop10": 3548,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.617132422783,
+          47.7123166788317
+        ]
+      },
+      "properties": {
+        "geoid": "53035940100",
+        "usps": "WA",
+        "pop10": 6149,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.62493644743,
+          39.0159815201793
+        ]
+      },
+      "properties": {
+        "geoid": "20091050800",
+        "usps": "KS",
+        "pop10": 2584,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7516636208575,
+          39.6374909777033
+        ]
+      },
+      "properties": {
+        "geoid": "24001000700",
+        "usps": "MD",
+        "pop10": 3387,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1348215231726,
+          35.3101444891004
+        ]
+      },
+      "properties": {
+        "geoid": "05131010101",
+        "usps": "AR",
+        "pop10": 6118,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3626858334869,
+          33.7744571238187
+        ]
+      },
+      "properties": {
+        "geoid": "13121001400",
+        "usps": "GA",
+        "pop10": 2182,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2035754967895,
+          32.7736605019478
+        ]
+      },
+      "properties": {
+        "geoid": "48439106511",
+        "usps": "TX",
+        "pop10": 6634,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5304673947137,
+          44.0231174464095
+        ]
+      },
+      "properties": {
+        "geoid": "55139000200",
+        "usps": "WI",
+        "pop10": 2559,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9204296374043,
+          40.8304500070793
+        ]
+      },
+      "properties": {
+        "geoid": "36005018301",
+        "usps": "NY",
+        "pop10": 4525,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9752149074707,
+          40.649354413924
+        ]
+      },
+      "properties": {
+        "geoid": "36047050400",
+        "usps": "NY",
+        "pop10": 4527,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7597743773913,
+          42.9979836387417
+        ]
+      },
+      "properties": {
+        "geoid": "26081011600",
+        "usps": "MI",
+        "pop10": 7897,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7328227861628,
+          27.8304570501516
+        ]
+      },
+      "properties": {
+        "geoid": "12103025014",
+        "usps": "FL",
+        "pop10": 4537,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.359446782059,
+          28.7516611757472
+        ]
+      },
+      "properties": {
+        "geoid": "12117020808",
+        "usps": "FL",
+        "pop10": 3874,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.799692276161,
+          40.0291262985692
+        ]
+      },
+      "properties": {
+        "geoid": "39049007396",
+        "usps": "OH",
+        "pop10": 9839,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0795369899907,
+          34.1169091772321
+        ]
+      },
+      "properties": {
+        "geoid": "13115001701",
+        "usps": "GA",
+        "pop10": 6481,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8574432405459,
+          35.9139184911291
+        ]
+      },
+      "properties": {
+        "geoid": "37127010300",
+        "usps": "NC",
+        "pop10": 6574,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0302130801652,
+          43.1863870825115
+        ]
+      },
+      "properties": {
+        "geoid": "36063024405",
+        "usps": "NY",
+        "pop10": 5329,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.739966818825,
+          28.2416784601286
+        ]
+      },
+      "properties": {
+        "geoid": "12101030302",
+        "usps": "FL",
+        "pop10": 2500,
+        "Soulfood Beverage": "Red Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0874621281759,
+          41.3332641740343
+        ]
+      },
+      "properties": {
+        "geoid": "09009120200",
+        "usps": "CT",
+        "pop10": 6181,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.855640214224,
+          40.679847941865
+        ]
+      },
+      "properties": {
+        "geoid": "36081005200",
+        "usps": "NY",
+        "pop10": 2751,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6289740495713,
+          31.3113683728842
+        ]
+      },
+      "properties": {
+        "geoid": "22079010700",
+        "usps": "LA",
+        "pop10": 4580,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.006276834959,
+          21.3883582210495
+        ]
+      },
+      "properties": {
+        "geoid": "15003008800",
+        "usps": "HI",
+        "pop10": 8054,
+        "Soulfood Beverage": "Red Drink"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5697750476927,
+          40.6061205533612
+        ]
+      },
+      "properties": {
+        "geoid": "42087960700",
+        "usps": "PA",
+        "pop10": 2316,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5549468545258,
+          41.7389438986874
+        ]
+      },
+      "properties": {
+        "geoid": "17031460301",
+        "usps": "IL",
+        "pop10": 3404,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1945824860087,
+          33.2846336981661
+        ]
+      },
+      "properties": {
+        "geoid": "13255160200",
+        "usps": "GA",
+        "pop10": 5973,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0112333832634,
+          38.0201291673677
+        ]
+      },
+      "properties": {
+        "geoid": "54045956102",
+        "usps": "WV",
+        "pop10": 3268,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8093527497378,
+          40.7325042076819
+        ]
+      },
+      "properties": {
+        "geoid": "36081122701",
+        "usps": "NY",
+        "pop10": 10910,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.172081040907,
+          42.3751762916282
+        ]
+      },
+      "properties": {
+        "geoid": "25017370201",
+        "usps": "MA",
+        "pop10": 3757,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6817097957948,
+          42.0346208102283
+        ]
+      },
+      "properties": {
+        "geoid": "19097950500",
+        "usps": "IA",
+        "pop10": 4050,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6191048952226,
+          32.1574302271991
+        ]
+      },
+      "properties": {
+        "geoid": "28129950100",
+        "usps": "MS",
+        "pop10": 5381,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8094713342196,
+          32.9246712491108
+        ]
+      },
+      "properties": {
+        "geoid": "48113009604",
+        "usps": "TX",
+        "pop10": 4807,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.134566208058,
+          36.2564425895468
+        ]
+      },
+      "properties": {
+        "geoid": "32003003625",
+        "usps": "NV",
+        "pop10": 6727,
+        "Soulfood Beverage": "Lemonade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4579602673763,
+          37.8245906292273
+        ]
+      },
+      "properties": {
+        "geoid": "17165955100",
+        "usps": "IL",
+        "pop10": 2349,
+        "Soulfood Beverage": "Sweet Tea"
+      }
+    }
+  ]
+}
