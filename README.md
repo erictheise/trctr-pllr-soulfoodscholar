@@ -6,4 +6,4 @@ References
 * the [@soulfoodscholar poll](https://twitter.com/soulfoodscholar/status/803796321790554112) that inspired this map
 * [TRCTR-PLLR repository](https://github.com/erictheise/trctr-pllr)
 * ["Faking it for Cartographers"]() blog post
-* a Heroku-hosted version of the app
+* a [Heroku-hosted version of the app](http://trctr-pllr.herokuapp.com/)
